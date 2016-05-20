@@ -1,0 +1,3 @@
+username=docker
+image=gitlab-runner-golang
+version=latest
